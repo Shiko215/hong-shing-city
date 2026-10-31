@@ -11,9 +11,16 @@ Official world information portal for **Hong Shing (香城)**, the fictional Eas
 
 ## Website imagery
 
-The homepage includes one harbour hero image and three district illustrations.
-Images are AI-generated world concept art, not gameplay screenshots or confirmed
-architectural/geographic canon. The page labels them accordingly.
+The homepage includes one city-centre hero and seven street-level gallery images,
+adapted from seven simulation-game screenshots and one Unreal Editor night-alley
+screenshot supplied by the user. Edits retain
+the source camera, streets, buildings, vehicles, and everyday urban character,
+with refined materials/lighting and removal of debug overlays. The night-alley
+adaptation reduces rendering noise and lifts shadows while retaining its neon
+lighting, closed stalls, and narrow passage. Shop names, bank identities, logos,
+and advertisements follow their respective original screenshots. These are visual
+references, not Dragon Affairs gameplay screenshots or confirmed geography.
+They are not assigned to specific islands. The page labels their source and use.
 
 - Optimized WebP assets: `assets/images/`
 - Generation prompts and provenance: [docs/image-prompts.md](docs/image-prompts.md)
