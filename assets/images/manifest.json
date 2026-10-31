@@ -1,0 +1,90 @@
+{
+  "edited_on": "2026-10-31",
+  "tool": "Built-in image_gen",
+  "provenance": "Eight user-supplied screenshots, edited as visual references; source originals preserved. Original shop and bank identities retained.",
+  "canon_status": "Concept references, not official Dragon Affairs gameplay or confirmed island geography",
+  "delivery": "Quality-85 WebP; 1600x900 hero, 1280x720 daytime gallery, night image resized proportionally. Full edited PNGs exported separately.",
+  "prompts": "../../docs/image-prompts.md",
+  "assets": [
+    {
+      "path": "assets/images/plaza-street.webp",
+      "source_screenshot": "20230527224339_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1280,
+      "height": 720,
+      "bytes": 196898,
+      "sha256": "2b10c3a2264c111aa3119a41b2483f1b36c5b13dc025b1ed214b84ed83061f1b",
+      "role": "street-gallery"
+    },
+    {
+      "path": "assets/images/plaza-towers.webp",
+      "source_screenshot": "20230527224028_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1280,
+      "height": 720,
+      "bytes": 261680,
+      "sha256": "4fa66c5897dbc0f656f017b9217df36fabd9de7be0435b56e06736dcfba795cc",
+      "role": "street-gallery"
+    },
+    {
+      "path": "assets/images/neighbourhood.webp",
+      "source_screenshot": "20240708032333_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1280,
+      "height": 720,
+      "bytes": 247122,
+      "sha256": "6b5168142686752eff0c9b2c4e24755709a719a8a8378f909edef281a0e8611a",
+      "role": "street-gallery"
+    },
+    {
+      "path": "assets/images/tram-street.webp",
+      "source_screenshot": "20240619125314_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1280,
+      "height": 720,
+      "bytes": 223234,
+      "sha256": "53f3129411e5aeef55130a3ee4074ea1086fbf0043ef7a0d88b82c2f6082c4c9",
+      "role": "street-gallery"
+    },
+    {
+      "path": "assets/images/footbridge.webp",
+      "source_screenshot": "20250225172629_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1280,
+      "height": 720,
+      "bytes": 206530,
+      "sha256": "7339e5736117bd2372e2894454b60984a1944fd9532f3698a91d5fce7dce7ecf",
+      "role": "street-gallery"
+    },
+    {
+      "path": "assets/images/city-centre.webp",
+      "source_screenshot": "20250225192641_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1600,
+      "height": 900,
+      "bytes": 238840,
+      "sha256": "69dac990eb75719eb452fdef0f2ba0298f0b38a5f3c2f76a4e528c205611d5c4",
+      "role": "hero"
+    },
+    {
+      "path": "assets/images/city-avenue.webp",
+      "source_screenshot": "20250225003453_1.jpg",
+      "source_kind": "user-supplied simulation-game screenshot",
+      "width": 1280,
+      "height": 720,
+      "bytes": 176306,
+      "sha256": "ba010ac20dcc7171750d019e10298207db4c981a13ceb79a843c6d3283b7cd5e",
+      "role": "street-gallery"
+    },
+    {
+      "path": "assets/images/night-alley.webp",
+      "source_screenshot": "HighresScreenshot00002.png",
+      "source_kind": "user-supplied Unreal Editor screenshot",
+      "width": 1600,
+      "height": 953,
+      "bytes": 161846,
+      "sha256": "e41272758f586d868fa0805db06793b2a34f5a3d26b4d6549f51db59f51e3eec",
+      "role": "street-gallery"
+    }
+  ]
+}
