@@ -1,0 +1,50 @@
+{
+  "generated_on": "2026-10-31",
+  "source": "Built-in image_gen; original fictional-world concept illustrations",
+  "canon_status": "Concept only; not gameplay screenshots or confirmed geography",
+  "style": "Painterly architectural realism, warm late-afternoon light, navy/ivory/green with restrained vermilion accents",
+  "derivation": "Harbour image is the style reference. Converted to quality-84 WebP; district images resized to 960x640. Originals retained in the generation tool output.",
+  "prompts": "../../docs/image-prompts.md",
+  "assets": [
+    {
+      "path": "assets/images/central-island.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 208740,
+      "sha256": "90d362a563286a30ffa2e6fd7a5cbe37d8eb2745e0695628b9ac9768b684afab",
+      "role": "district",
+      "format": "WebP",
+      "transparent": false
+    },
+    {
+      "path": "assets/images/hong-shing-harbour.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 328174,
+      "sha256": "fddbc14b862fae9d52ec0df1765c209e64d54456ba95fc30b624b0e00d223236",
+      "role": "hero",
+      "format": "WebP",
+      "transparent": false
+    },
+    {
+      "path": "assets/images/hong-shing-island.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 197192,
+      "sha256": "0718cd86d954ac9e7c3688f1f4c5a4946905428fbbefbfe7f24c54d8d0e646ee",
+      "role": "district",
+      "format": "WebP",
+      "transparent": false
+    },
+    {
+      "path": "assets/images/west-island.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 182872,
+      "sha256": "86dbd257d955a99ee9eddbd70fe894df463f162b4412cb3ac66492796ef43e04",
+      "role": "district",
+      "format": "WebP",
+      "transparent": false
+    }
+  ]
+}
